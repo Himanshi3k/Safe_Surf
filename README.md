@@ -1,12 +1,9 @@
-Here’s a clean and professional `README.md` for your project **SafeSurf**. You can copy-paste it into your repository and modify any section further if needed:
-
----
 
 # 🛡️ SafeSurf — Phishing Link Detection Website
 
 SafeSurf is a phishing link detection web application where users can paste a URL and check whether it's **safe or potentially harmful**. The model used for classification is based on a **Voting Ensemble Algorithm**, achieving an impressive **accuracy of 93.53%**.
 
-![SafeSurf Screenshot]()  
+![SafeSurf Screenshot](/homepage.png)  
 *Paste a URL and check instantly if it’s safe!*
 
 ---
@@ -34,8 +31,9 @@ SafeSurf is a phishing link detection web application where users can paste a UR
    - **Voting Classifier** performed second best but offered best real-time performance tradeoff
    - Final accuracy: **93.53%**
 
----
 _Particular details of the structure of the voting classifier along with their specific hyperparameters will be readable once the research paper gets published._
+---
+
 ## 🧰 Tech Stack
 
 - **Backend & ML**: Python, Scikit-learn, Pandas, NumPy, joblib
