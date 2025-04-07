@@ -49,7 +49,8 @@ A research paper based on SafeSurf was **accepted at the DOSCI 2025 Conference**
 ---
 
 ## 🖼️ Screenshots
-
+![Safe URL](/safe.png)  
+![Phishing URL](/phishing.png)  
 
 
 ---
